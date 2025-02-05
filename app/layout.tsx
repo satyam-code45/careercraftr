@@ -34,9 +34,9 @@ export default function RootLayout({
           >
             {/* header */}
             <Header/>
-            <main className="min-h-screen">{children}</main>
+            <main className="min-h-screen flex-1">{children}</main>
             {/* footer */}
-            <footer className="bg-muted/50 py-12" >
+            <footer className="bg-muted/50 py-12 mt-auto" >
               <div className="container mx-auto px-4 text-center text-gray-200">
               <p>Made by Satyam!</p>
               </div>
