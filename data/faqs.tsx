@@ -1,32 +1,32 @@
 export const faqs = [
-    {
-      question: "What makes Sensai unique as a career development tool?",
-      answer:
-        "Sensai combines AI-powered career tools with industry-specific insights to help you advance your career. Our platform offers three main features: an intelligent resume builder, a cover letter generator, and an adaptive interview preparation system. Each tool is tailored to your industry and skills, providing personalized guidance for your professional journey.",
-    },
-    {
-      question: "How does Sensai create tailored content?",
-      answer:
-        "Sensai learns about your industry, experience, and skills during onboarding. It then uses this information to generate customized resumes, cover letters, and interview questions. The content is specifically aligned with your professional background and industry standards, making it highly relevant and effective.",
-    },
-    {
-      question: "How accurate and up-to-date are Sensai's industry insights?",
-      answer:
-        "We update our industry insights weekly using advanced AI analysis of current market trends. This includes salary data, in-demand skills, and industry growth patterns. Our system constantly evolves to ensure you have the most relevant information for your career decisions.",
-    },
-    {
-      question: "Is my data secure with Sensai?",
-      answer:
-        "Absolutely. We prioritize the security of your professional information. All data is encrypted and securely stored using industry-standard practices. We use Clerk for authentication and never share your personal information with third parties.",
-    },
-    {
-      question: "How can I track my interview preparation progress?",
-      answer:
-        "Sensai tracks your performance across multiple practice interviews, providing detailed analytics and improvement suggestions. You can view your progress over time, identify areas for improvement, and receive AI-generated tips to enhance your interview skills based on your responses.",
-    },
-    {
-      question: "Can I edit the AI-generated content?",
-      answer:
-        "Yes! While Sensai generates high-quality initial content, you have full control to edit and customize all generated resumes, cover letters, and other content. Our markdown editor makes it easy to refine the content to perfectly match your needs.",
-    },
-  ];
+  {
+    question: "What sets CareerCraftr apart as a career development platform?",
+    answer:
+      "CareerCraftr offers a comprehensive suite of AI-driven tools tailored to enhance your professional journey. Our platform provides an intelligent resume builder, a personalized cover letter generator, and an adaptive interview preparation system. Each feature is customized to align with your industry and skill set, ensuring you receive guidance that is relevant and effective.",
+  },
+  {
+    question: "How does CareerCraftr personalize content for users?",
+    answer:
+      "During the onboarding process, CareerCraftr gathers information about your industry, experience, and skills. Utilizing this data, the platform generates customized resumes, cover letters, and interview questions that reflect your unique professional background and adhere to industry standards.",
+  },
+  {
+    question: "How current are the industry insights provided by CareerCraftr?",
+    answer:
+      "We update our industry insights weekly through advanced AI analysis of the latest market trends, including salary data, in-demand skills, and industry growth patterns. This ensures you always have access to the most relevant career information.",
+  },
+  {
+    question: "Is my personal information secure with CareerCraftr?",
+    answer:
+      "Yes, we prioritize the security of your data. All personal information is encrypted and stored securely following industry-standard practices. We utilize Clerk for authentication and do not share your personal details with third parties.",
+  },
+  {
+    question: "How can I track my interview preparation progress on CareerCraftr?",
+    answer:
+      "CareerCraftr tracks your performance across multiple practice interviews, offering detailed analytics and suggestions for improvement. You can review your progress over time, identify areas needing enhancement, and receive AI-generated tips to refine your interview skills based on your responses.",
+  },
+  {
+    question: "Can I modify the AI-generated content on CareerCraftr?",
+    answer:
+      "Absolutely. While CareerCraftr provides high-quality initial content, you have full control to edit and customize all generated resumes, cover letters, and other materials. Our user-friendly editor allows you to tailor the content to perfectly match your needs.",
+  },
+];
