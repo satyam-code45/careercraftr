@@ -1,3 +1,4 @@
+import { Card, CardContent } from "@/components/ui/card";
 import { BrainCircuit, Briefcase, LineChart, ScrollText } from "lucide-react";
 import { ReactElement } from "react";
 
@@ -34,5 +35,3 @@ export const features: Feature[] = [
       "Create a professional, ATS-friendly resume with AI-driven recommendations and formatting.",
   },
 ];
-
-
